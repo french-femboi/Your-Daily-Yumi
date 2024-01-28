@@ -241,7 +241,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             ),
                             const SizedBox(height: 20),
                             Text(
-                              'v1.0.5 - Copyright © 2023 Dynapaw',
+                              'v1.1.0 - Copyright © 2023-2024 Dynapaw',
                               style: TextStyle(fontSize: 15, color: Color(0xFFD1EFAA), fontFamily: 'quicksand',),
                               textAlign: TextAlign.center,
                             ),
