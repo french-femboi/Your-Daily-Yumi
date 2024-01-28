@@ -182,7 +182,7 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  'With "Your Daily Yumi", you can look at a new picture of my cat Yumi every day! :) Do not forget to check out the links in the upper right corner ;]',
+                  'With "Your Daily Yumi", you can look at a new picture of my cat Yumi every day! :) Do not forget to check out the links in the upper right corner :] I hand pick these pictures and change them every day :)',
                   style: TextStyle(fontSize: 20, color: Color(0xFFD1EFAA), fontFamily: 'quicksand',),
                   textAlign: TextAlign.center,
                 ),
